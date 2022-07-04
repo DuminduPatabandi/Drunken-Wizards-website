@@ -1,0 +1,131 @@
+body {
+    background-color: #F9F9F9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item {
+    padding: 0 20px;
+    font-size: 0.75rem;
+}
+
+.navigation-bar {
+    background-color: #ffffff;
+}
+
+.slogan-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #939393;
+    font-size: 1.25rem;
+    letter-spacing: .3rem;
+}
+
+.details-page {
+    background-color: #23221F;
+}
+
+.about-page {
+    background-color: #E2E2E2;
+}
+
+.work-page {
+    background-color: #F9F9F9;
+}
+
+.contact-page {
+    background-color: #F1F1F1;
+}
+
+
+.title-tag {
+    font-family: 'Jolly Lodger', cursive;
+    color: #F5F5F5;
+    font-size: 4rem;
+    letter-spacing: .2rem;
+}
+
+.about-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #23221F;
+    font-size: 3.375rem;
+    letter-spacing: 3.6rem;
+}
+
+.work-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #939393;
+    font-size: 3.375rem;
+    letter-spacing: 3.6rem;
+}
+
+.keep-tag {
+    font-family: 'Shadows Into Light', cursive;
+    color: #C5D0D0;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+}
+
+.sign-tag {
+    font-family: 'Montserrat', sans-serif;
+    color: #939393;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.work-stuff {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 50px;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    opacity: 80%;
+}
+
+.sign-sheet {
+    background-color: #23221F;
+}
+
+.fa-solid {
+    color: white;
+    font-size: 3rem;
+    
+}
+
+.founder-text {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    color: #838383;
+}
+
+.santha {
+    text-align: center;
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #939393;
+    font-size: 1.25rem;
+}
+
+.card-body {
+    background-color: #F5F5F5;
+    border-style: none;
+}
+
+.bg-col {
+    background-color: #E2E2E2;
+}
+
+.my-button {
+    background-color: #23221F;
+    color: white;
+    width: 150px;
+    padding: 1rem 2rem;
+
+}
+
+.my-button:hover {
+    background-color: #ffffff;
+    color: #23221F;
+    transition-duration: .5s;
+
+}
